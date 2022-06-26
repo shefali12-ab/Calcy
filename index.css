@@ -1,0 +1,70 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: #5fab91;
+}
+.black-div{
+    background-color: #1c1818;
+    height: 25rem;
+    width: 45rem;
+    display: inline-block;
+    position: absolute;
+    top: 28%;
+   border-radius: 1rem;
+    left: 32%;
+}
+#bar{
+    
+    
+    transform: rotate(90deg);
+    width: 8rem;
+    position: relative;
+    top: 11rem;
+    left:4rem;
+    border-radius: 63rem;
+    height: 3px;
+    border-style: none;
+    background-color: #5fab91;
+}
+h2{
+    position: relative;
+    top: 8rem;
+    left: 8rem;
+    color: #5fab91;
+    padding-left: 14px;
+}
+.marks-div{
+    width: 30rem;
+    position: relative;
+    left: 25rem;
+    top: 2rem;
+    
+}
+.app-form{
+    padding-bottom: 1rem;
+    
+}
+#showdata{
+    color: #fff;
+    position: relative;
+    top: 2rem;
+    right: 16rem;
+    font-style: italic;
+    font-size: 22px;
+}
+.appformcontrol{
+    width: 14rem;
+   text-align: center;
+   padding: 2px;
+
+}
+.appform-btn-control{
+    padding: 6px;
+    border-radius: 7px;
+    background-color: #5fab91;
+    border-style: none;
+    margin-left: 5rem;
+    margin-top: 0.5rem;
+}
